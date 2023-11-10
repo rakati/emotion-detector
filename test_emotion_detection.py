@@ -1,6 +1,5 @@
 from EmotionDetection import emotion_detector
 import unittest
-import json
 
 class TestEmotionDetector(unittest.TestCase):
     def test_emotion_detector(self):
